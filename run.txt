@@ -1,0 +1,9 @@
+pip install streamlit streamlit-chat langchain openai tiktoken emoji
+
+export your OPENAI_API_KEY
+
+On the login page use the login details of any user in the db from the readme.txt file and then you can ask questions
+like this
+
+What are my latest medical records?
+What precautions should I take based on my symptoms?
